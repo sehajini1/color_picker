@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">InclassAssignment</string>
+    <string name="generate">GENERATE</string>
+    <string name="green_value">GREEN VALUE</string>
+    <string name="blue_value">BLUE VALUE</string>
+    <string name="red_value">RED VALUE</string>
+</resources>
